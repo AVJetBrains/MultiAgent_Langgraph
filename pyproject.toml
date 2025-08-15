@@ -7,10 +7,13 @@ requires-python = ">=3.13"
 dependencies = [
     "ipykernel>=6.30.0",
     "langchain>=0.3.27",
+    "langchain-community>=0.3.27",
+    "langchain-core>=0.3.72",
     "langchain-groq>=0.3.6",
     "langchain-mcp-adapters>=0.1.9",
     "langchain-tavily>=0.2.11",
     "langgraph>=0.6.3",
+    "langgraph-cli[inmem,inmen]>=0.3.6",
     "langsmith>=0.4.10",
     "mcp>=1.12.4",
     "python-dotenv>=1.1.1",
