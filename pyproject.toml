@@ -11,6 +11,7 @@ dependencies = [
     "langchain-core>=0.3.72",
     "langchain-groq>=0.3.6",
     "langchain-mcp-adapters>=0.1.9",
+    "langchain-openai>=0.3.28",
     "langchain-tavily>=0.2.11",
     "langgraph>=0.6.3",
     "langgraph-cli[inmem,inmen]>=0.3.6",
